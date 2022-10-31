@@ -10,7 +10,11 @@ As my client, Louise's play, Fever, approaches it's fundraising goal, she wants 
 ## Analysis and Challenges
 To assist Louise in her decision-making about launch timing, I created an analysis of the success of all kickstarter campaigns launched for theatre productions, sorted by the month of their launch date. 
 
+![Outcomes Based on Launch Date](https://github.com/scallina/kickstarter-analysis/blob/main/Outcomes%20By%20Launch%20Date.png)
+
 To provide guidance to Louise when considering the dollar amount of their launch goal, I also created a line chart analyzing the differing degrees of success between kickstarte campaigns for plays, respective to the dollar amount of their goal. 
+
+![Outcomes Based on Goal](https://github.com/scallina/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goal.png)
 
 ### Analysis of Outcomes Based on Launch Date
 According to this dataset, the months May and June have the highest numbers of reported success for theatre campaigns (111 and 100, respectively). Additionally, the gap between successful and failed theatre campaigns is most narrow (indicating the highest chance of failure) during the months of October and December (5 and 2, respectively).
